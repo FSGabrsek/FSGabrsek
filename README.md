@@ -11,12 +11,12 @@ Whether I'm programming or spending my free time playing some games with friends
 
 ## What I'm working on
 
-Currently I'm using Python for some data science assignments, while outside of college projects you can find me trying to learn Svelte
+Currently I'm using Python for some data science assignments, while outside of college projects you can find me trying to learn Svelte.
 
 
 ## Contact me!
 
-If you want to get in touch you can always reach me by sending me a quick message on discord, or you could send me an email
+If you want to get in touch you can reach me by sending me a quick message on discord, or you could always send me an email, just don't expect me to respond immediately in that case.
 
 [<img src="https://simpleicons.org/icons/discord.svg" width="12" />](#) **Discord** - Frenk#0001
 

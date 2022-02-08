@@ -9,12 +9,12 @@ Whether I'm programming or spending my free time playing some games with friends
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fsgabrsek&layout=compact&title_color=1F2939)
 
 
-## What am I working on
+## What I'm working on
 
 Currently I'm using Python for some data science assignments, while outside of college projects you can find me trying to learn Svelte
 
 
-## Contact me
+## Contact me!
 
 If you want to get in touch you can always reach me by sending me a quick message on discord, or you could send me an email
 

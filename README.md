@@ -11,7 +11,7 @@ Whether I'm programming or spending my free time playing some games with friends
 
 ## What I'm working on
 
-Currently I'm using Python for some data science assignments, while outside of college projects you can find me trying to learn Svelte.
+Currently I'm mostly using various Js frameworks to make webapps, while in my free time I'm trying to replace my knowledge of Java with an equally trivial knowledge of Kotlin
 
 
 ## Contact me!

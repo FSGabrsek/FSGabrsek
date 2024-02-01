@@ -4,8 +4,6 @@ I'm Frank, a computer science student at Avans Breda in the Netherlands. I've ti
 
 Whether I'm programming or spending my free time playing some games with friends, expect me to be listening to an unhealthy amount of music.
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fsgabrsek&count_private=true&show_icons=true&title_color=1F2939)
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fsgabrsek&layout=compact&title_color=1F2939)
 
 
